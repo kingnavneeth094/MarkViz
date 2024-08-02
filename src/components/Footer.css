@@ -1,0 +1,14 @@
+/* src/components/Footer.css */
+.footer {
+    background-color: #282c34;
+    color: white;
+    padding: 10px;
+    text-align: center; /* Center text horizontally */
+    display: flex; /* Use Flexbox */
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically if needed */
+    position: fixed; /* Fix the footer to the bottom */
+    width: 100%;
+    bottom: 0;
+    left: 0; /* Ensure it's aligned to the left */
+}
